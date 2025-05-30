@@ -1,0 +1,10 @@
+# Environments
+
+venv/
+
+# Dataset
+
+dataset/
+
+# System files
+.DS_Store
