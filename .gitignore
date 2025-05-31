@@ -6,6 +6,11 @@ venv/
 # Dataset
 
 dataset/
+data/cleaned_dataset.csv
 
 # System files
 .DS_Store
+
+# Database
+
+data/delivery_data.db
